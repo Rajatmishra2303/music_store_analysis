@@ -1,4 +1,8 @@
 # music_store_analysis
 overview:
 The Music Store Analysis Project utilizes SQL to analyze various aspects of a music store.By querying a relational database management system (RDBMS) using SQL.
-This project aims to derive insights and make data-driven decisions to optimize the music store's performance
+This project aims to derive insights and make data-driven decisions to optimize the music store's performance.
+
+Objectives:
+
+Sales Analysis: Analyze sales data to identify top-selling products, popular genres, and trends in customer purchasing behavior.
